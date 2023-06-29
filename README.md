@@ -14,8 +14,6 @@
 [Ethical Hacking Essentials (EHE)](https://coursera.org/share/711dc424a6479ff9f96cf5fb6285763e)
 
 <h2> Connect With Me:</h2>
-
-
 [youtube]: https://www.youtube.com/c/tewjmonet
 
 [linkedin]: https://linkedin.com/in/Felicity-Rollins
